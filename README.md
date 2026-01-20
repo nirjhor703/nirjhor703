@@ -10,8 +10,7 @@ ERP & Management Systems | Laravel & Django
 </h3>
 
 <p align="center">
-I design and build database-driven business applications with a strong focus on<br>
-clean backend architecture, maintainability, and real-world deployment.
+I design and build database-driven business applications with a strong focus on clean backend architecture, maintainability, and real-world deployment.
 </p>
 
 <p align="center">
@@ -20,7 +19,7 @@ clean backend architecture, maintainability, and real-world deployment.
 
 ---
 
-## Profile Overview
+<h2 align="center">Profile Overview</h2>
 
 <table align="center">
 <tr>
@@ -47,7 +46,7 @@ clean backend architecture, maintainability, and real-world deployment.
 
 ---
 
-## Core Competency Matrix
+<h2 align="center">Core Competency Matrix</h2>
 
 <table align="center">
 <tr>
@@ -84,7 +83,7 @@ clean backend architecture, maintainability, and real-world deployment.
 
 ---
 
-## Technology Stack (Structured)
+<h2 align="center">Technology Stack</h2>
 
 <table align="center">
 <tr>
@@ -115,46 +114,37 @@ clean backend architecture, maintainability, and real-world deployment.
 
 ---
 
-## Professional Experience
+<h2 align="center">Professional Experience</h2>
 
 <details>
-<summary><strong>ERP & Management Systems</strong></summary>
-
+<summary>ERP & Management Systems</summary>
 <br>
-
-- Designed backend logic for ERP-style applications
-- Implemented authentication, authorization, and role management
-- Built scalable CRUD systems with clean separation of concerns
-- Worked extensively with relational databases
-
+- Designed backend logic for ERP-style applications  
+- Implemented authentication, authorization, and role management  
+- Built scalable CRUD systems with clean separation of concerns  
+- Worked extensively with relational databases  
 </details>
 
 <details>
-<summary><strong>Diet Counseling Center Management System</strong></summary>
-
+<summary>Diet Counseling Center Management System</summary>
 <br>
-
-- Django-based backend architecture
-- ORM-driven data modeling
-- Modular app structure for maintainability
-- Business logic focused on real operational workflows
-
+- Django-based backend architecture  
+- ORM-driven data modeling  
+- Modular app structure for maintainability  
+- Business logic focused on real operational workflows  
 </details>
 
 <details>
-<summary><strong>Internship – Team Solution Bangladesh</strong></summary>
-
+<summary>Internship – Team Solution Bangladesh</summary>
 <br>
-
-- Contributed to Event Management and Diagnostic Systems
-- Worked on backend features and system-level logic
-- Collaborated with senior developers in a production environment
-
+- Contributed to Event Management and Diagnostic Systems  
+- Worked on backend features and system-level logic  
+- Collaborated with senior developers in a production environment  
 </details>
 
 ---
 
-## Current Learning Path
+<h2 align="center">Current Learning Path</h2>
 
 <table align="center">
 <tr>
@@ -181,7 +171,7 @@ clean backend architecture, maintainability, and real-world deployment.
 
 ---
 
-## GitHub Statistics
+<h2 align="center">GitHub Statistics</h2>
 
 <table align="center">
 <tr>
@@ -189,56 +179,31 @@ clean backend architecture, maintainability, and real-world deployment.
   <img src="https://github-readme-stats.vercel.app/api?username=nirjhor703&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
 </td>
 <td align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirjhor703&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirjhor703&layout=compact&theme=tokyonight&count_private=true" height="170"/>
 </td>
 </tr>
 </table>
-
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirjhor703&layout=compact&theme=tokyonight&count_private=true" height="150"/>
-</td>
-</tr>
-</table>
-
 
 ---
 
-## Contact
+<h2 align="center">Contact</h2>
 
-<table align="center">
-<tr>
-<td align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/tahiyat-ahmed-514148333/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/555555" width="18"/>
-    <br>
-    LinkedIn
+    <img src="https://cdn.simpleicons.org/linkedin/555555" width="22"/> LinkedIn
   </a>
-</td>
-<td width="40"></td>
-<td align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:tahiyat.ahmed703@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/555555" width="18"/>
-    <br>
-    Email
+    <img src="https://cdn.simpleicons.org/gmail/555555" width="22"/> Email
   </a>
-</td>
-<td width="40"></td>
-<td align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/nirjhor.ahmed30" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/555555" width="18"/>
-    <br>
-    Facebook
+    <img src="https://cdn.simpleicons.org/facebook/555555" width="22"/> Facebook
   </a>
-</td>
-</tr>
-</table>
-
+</p>
 
 ---
 
 <p align="center">
   <em>Focused on building reliable backend systems before scaling into infrastructure and automation.</em>
 </p>
-
