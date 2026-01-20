@@ -181,37 +181,60 @@ clean backend architecture, maintainability, and real-world deployment.
 
 ---
 
-## GitHub Activity
+## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirjhor703&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-</p>
+<table align="center">
+<tr>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nirjhor703&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+</td>
+<td align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirjhor703&theme=tokyonight&hide_border=true" height="170"/>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirjhor703&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<table align="center">
+<tr>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirjhor703&layout=compact&theme=tokyonight&count_private=true" height="150"/>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirjhor703&layout=compact&theme=tokyonight&count_private=true" height="140"/>
-</p>
 
 ---
 
 ## Contact
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
   <a href="https://www.linkedin.com/in/tahiyat-ahmed-514148333/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/555555" width="22"/>
+    <img src="https://cdn.simpleicons.org/linkedin/555555" width="18"/>
+    <br>
+    LinkedIn
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td width="40"></td>
+<td align="center">
   <a href="mailto:tahiyat.ahmed703@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/555555" width="22"/>
+    <img src="https://cdn.simpleicons.org/gmail/555555" width="18"/>
+    <br>
+    Email
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td width="40"></td>
+<td align="center">
   <a href="https://facebook.com/nirjhor.ahmed30" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/555555" width="22"/>
+    <img src="https://cdn.simpleicons.org/facebook/555555" width="18"/>
+    <br>
+    Facebook
   </a>
-</p>
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -219,6 +242,3 @@ clean backend architecture, maintainability, and real-world deployment.
   <em>Focused on building reliable backend systems before scaling into infrastructure and automation.</em>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nirjhor703&icon=0&color=12"/>
-</p>
