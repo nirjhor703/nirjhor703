@@ -7,16 +7,16 @@
 </h1>
 
 <h3 align="center">
-  Backend-Focused Full-Stack Developer
+  Backend-Focused Full-Stack Developer · ERP System Builder
 </h3>
 
 <p align="center">
-  Specialized in building ERP systems, management platforms, and scalable backend architectures.<br>
-  Currently expanding skills in AI automation and DevOps practices.
+  I design and build backend-heavy web applications with a strong focus on<br>
+  ERP systems, management platforms, and clean, scalable architectures.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=1abc9c&center=true&vCenter=true&width=750&lines=Design.+Build.+Improve.;ERP+and+Management+Systems.;Clean+Backend+Architecture." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=1abc9c&center=true&vCenter=true&width=780&lines=Build+Reliable+Systems.;Laravel+%26+Django+Specialist.;Learning+Automation+and+DevOps+Practices." />
 </p>
 
 ---
@@ -24,56 +24,64 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  Bachelor of Science in Computer Science and Engineering (AIUB)<br>
-  Backend-Oriented Software Developer
+  BSc in Computer Science and Engineering (AIUB)<br>
+  Based in Bangladesh<br>
+  Backend Development · ERP Systems · Web Applications
 </p>
 
 <p align="center">
-  I am a Computer Science and Engineering student with approximately 6–7 months of hands-on development experience.<br><br>
-  My primary strength lies in designing and implementing ERP systems and management platforms using Laravel and Django.<br><br>
-  Alongside backend development, I am actively learning AI automation workflows and DevOps fundamentals to strengthen my understanding of production systems.
+  I am a Computer Science and Engineering student with hands-on experience in building<br>
+  real-world ERP systems and management applications using Laravel and Django.<br><br>
+  Over the past 6–7 months, I have actively worked on backend-heavy projects focusing on<br>
+  database design, business logic, authentication, and system scalability.<br><br>
+  Alongside my core backend work, I am currently learning AI automation workflows and<br>
+  DevOps fundamentals to strengthen my system deployment and operational skills.
 </p>
 
 ---
 
-<h2 align="center">Primary Expertise</h2>
+<h2 align="center">Core Expertise</h2>
 
 <p align="center">
-  <strong>Backend Development (Core Strength)</strong><br>
-  Laravel (PHP) and Django (Python) for ERP systems, management software, and RESTful APIs
+  <strong>Backend Development</strong><br>
+  Laravel (PHP) and Django (Python) for ERP systems, dashboards, and management platforms
 </p>
 
 <p align="center">
   <strong>System Design</strong><br>
-  Database-driven applications, authentication systems, role-based access control
+  Authentication, role-based access, CRUD-heavy business logic, relational data modeling
+</p>
+
+<p align="center">
+  <strong>Databases</strong><br>
+  MySQL, PostgreSQL, SQLite, MariaDB
 </p>
 
 <p align="center">
   <strong>AI Automation (Learning)</strong><br>
-  Exploring automation workflows using n8n and API-based AI integrations
+  Exploring automation workflows and AI integrations using n8n
 </p>
 
 <p align="center">
-  <strong>DevOps & Deployment (Learning)</strong><br>
-  Basic VPS management, Django deployment, CloudLinux environment exposure
+  <strong>DevOps Fundamentals (Learning)</strong><br>
+  VPS deployment, CloudLinux environments, basic server hardening and monitoring
 </p>
 
 ---
 
-<h2 align="center">Languages & Tools</h2>
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="35"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="35"/>
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="35"/>
-  <img src="https://cdn.simpleicons.org/django/092E20" width="35"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="35"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="35"/>
-  <img src="https://cdn.simpleicons.org/postgresql/336791" width="35"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="35"/>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="35"/>
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="35"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="35"/>
+  <img src="https://cdn.simpleicons.org/php/777BB4" width="34"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="34"/>
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="34"/>
+  <img src="https://cdn.simpleicons.org/django/092E20" width="34"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="34"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="34"/>
+  <img src="https://cdn.simpleicons.org/postgresql/336791" width="34"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="34"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="34"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="34"/>
 </p>
 
 ---
@@ -81,34 +89,35 @@
 <h2 align="center">Project Experience</h2>
 
 <p align="center">
-  <strong>ERP & Management Systems</strong><br>
-  Developed backend-heavy systems using Laravel and Django focusing on scalability, data integrity, and maintainability
+  <strong>ERP and Management Systems</strong><br>
+  Designed and developed backend systems for business workflows using Laravel and Django,<br>
+  including authentication, role-based permissions, reporting, and database-driven modules.
 </p>
 
 <p align="center">
   <strong>Diet Counseling Center Management System</strong><br>
-  Django-based system using ORM, modular backend design, and structured data flow
+  Built using Django ORM with scalable backend architecture and structured data models.
 </p>
 
 <p align="center">
   <strong>Word Polygons</strong><br>
-  Logic-intensive puzzle game built with Python and Tkinter
+  Developed a logic-heavy puzzle game using Python (Tkinter) with custom geometric layouts.
 </p>
 
 <p align="center">
-  <strong>Internship Work</strong><br>
-  Contributed to Event and Diagnostic Management Systems at Team Solution Bangladesh
+  <strong>Software Engineering Internship</strong><br>
+  Contributed to Event and Diagnostic Management Systems at Team Solution Bangladesh.
 </p>
 
 ---
 
-<h2 align="center">Current Learning Focus</h2>
+<h2 align="center">Current Focus</h2>
 
 <p align="center">
-  AI-assisted automation using n8n<br>
-  Improving backend scalability patterns<br>
-  Understanding DevOps workflows and deployment strategies<br>
-  Writing cleaner, maintainable backend code
+  Improving ERP architecture and backend scalability<br>
+  Learning AI-powered automation workflows<br>
+  Strengthening DevOps and deployment practices<br>
+  Writing cleaner, more maintainable backend code
 </p>
 
 ---
@@ -126,7 +135,7 @@
 
 ---
 
-<h2 align="center">Contact</h2>
+<h2 align="center">Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tahiyat-ahmed-514148333/" target="_blank">
@@ -142,12 +151,10 @@
 
 ---
 
-<h3 align="center">Professional Statement</h3>
-
 <p align="center">
-  Building reliable backend systems first — expanding into automation and infrastructure step by step.
+  <em>Focused on building strong foundations before scaling complexity.</em>
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nirjhor703&icon=0&color=12"/>
+  <img src="https://visitcount.itsvg.in/api?id=nirjhor703&icon=2&color=12"/>
 </p>
