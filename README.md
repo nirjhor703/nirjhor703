@@ -88,45 +88,46 @@ I design and build database-driven business applications with a strong focus on 
 <table align="center">
 <tr>
   <!-- Backend -->
-  <td align="center">
-    <strong>Backend</strong><br>
-    <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="35" style="margin: 5px;" />
-    <img src="https://cdn.simpleicons.org/django/092E20" width="35" style="margin: 5px;" />
+  <td align="center" style="padding: 20px;">
+    <strong>Backend</strong><br><br>
+    <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="35" style="margin: 0 20px;" />
+    <img src="https://cdn.simpleicons.org/django/092E20" width="35" style="margin: 0 20px;" />
   </td>
 
   <!-- Languages -->
-  <td align="center">
-    <strong>Languages</strong><br>
-    <img src="https://cdn.simpleicons.org/php/777BB4" width="35" style="margin: 5px;" />
-    <img src="https://cdn.simpleicons.org/python/3776AB" width="35" style="margin: 5px;" />
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="35" style="margin: 5px;" />
+  <td align="center" style="padding: 20px;">
+    <strong>Languages</strong><br><br>
+    <img src="https://cdn.simpleicons.org/php/777BB4" width="35" style="margin: 0 20px;" />
+    <img src="https://cdn.simpleicons.org/python/3776AB" width="35" style="margin: 0 20px;" />
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="35" style="margin: 0 20px;" />
   </td>
 
   <!-- Databases -->
-  <td align="center">
-    <strong>Databases</strong><br>
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" width="35" style="margin: 5px;" />
-    <img src="https://cdn.simpleicons.org/postgresql/336791" width="35" style="margin: 5px;" />
-    <img src="https://cdn.simpleicons.org/sqlite/003B57" width="35" style="margin: 5px;" />
+  <td align="center" style="padding: 20px;">
+    <strong>Databases</strong><br><br>
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" width="35" style="margin: 0 20px;" />
+    <img src="https://cdn.simpleicons.org/postgresql/336791" width="35" style="margin: 0 20px;" />
+    <img src="https://cdn.simpleicons.org/sqlite/003B57" width="35" style="margin: 0 20px;" />
   </td>
 
   <!-- Frontend -->
-  <td align="center">
-    <strong>Frontend</strong><br>
-    <img src="https://cdn.simpleicons.org/html5/E34F26" width="35" style="margin: 5px;" />
-    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="35" style="margin: 5px;" />
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="35" style="margin: 5px;" />
+  <td align="center" style="padding: 20px;">
+    <strong>Frontend</strong><br><br>
+    <img src="https://cdn.simpleicons.org/html5/E34F26" width="35" style="margin: 0 20px;" />
+    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="35" style="margin: 0 20px;" />
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="35" style="margin: 0 20px;" />
   </td>
 
   <!-- Tools -->
-  <td align="center">
-    <strong>Tools</strong><br>
-    <img src="https://cdn.simpleicons.org/git/F05032" width="35" style="margin: 5px;" />
-    <img src="https://cdn.simpleicons.org/linux/FCC624" width="35" style="margin: 5px;" />
-    <img src="https://cdn.simpleicons.org/docker/2496ED" width="35" style="margin: 5px;" />
+  <td align="center" style="padding: 20px;">
+    <strong>Tools</strong><br><br>
+    <img src="https://cdn.simpleicons.org/git/F05032" width="35" style="margin: 0 20px;" />
+    <img src="https://cdn.simpleicons.org/linux/FCC624" width="35" style="margin: 0 20px;" />
+    <img src="https://cdn.simpleicons.org/docker/2496ED" width="35" style="margin: 0 20px;" />
   </td>
 </tr>
 </table>
+
 
 
 
