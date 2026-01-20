@@ -85,33 +85,45 @@ I design and build database-driven business applications with a strong focus on 
 
 <h2 align="center">Technology Stack</h2>
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
+<!-- Backend -->
+<p align="center">
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="35" style="margin: 0 15px;" />
+  <img src="https://cdn.simpleicons.org/django/092E20" width="35" style="margin: 0 15px;" />
+</p>
+<p align="center"><strong>Backend</strong></p>
 
-  <!-- Backend -->
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="35" style="margin: 0 18px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.6)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://cdn.simpleicons.org/django/092E20" width="35" style="margin: 0 18px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.6)'" onmouseout="this.style.transform='scale(1)'"/>
+<!-- Languages -->
+<p align="center">
+  <img src="https://cdn.simpleicons.org/php/777BB4" width="35" style="margin: 0 15px;" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="35" style="margin: 0 15px;" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="35" style="margin: 0 15px;" />
+</p>
+<p align="center"><strong>Languages</strong></p>
 
-  <!-- Languages -->
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="35" style="margin: 0 18px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.6)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="35" style="margin: 0 18px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.6)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="35" style="margin: 0 18px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.6)'" onmouseout="this.style.transform='scale(1)'"/>
+<!-- Databases -->
+<p align="center">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="35" style="margin: 0 15px;" />
+  <img src="https://cdn.simpleicons.org/postgresql/336791" width="35" style="margin: 0 15px;" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="35" style="margin: 0 15px;" />
+</p>
+<p align="center"><strong>Databases</strong></p>
 
-  <!-- Databases -->
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="35" style="margin: 0 18px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.6)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://cdn.simpleicons.org/postgresql/336791" width="35" style="margin: 0 18px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.6)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="35" style="margin: 0 18px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.6)'" onmouseout="this.style.transform='scale(1)'"/>
+<!-- Frontend -->
+<p align="center">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="35" style="margin: 0 15px;" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="35" style="margin: 0 15px;" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="35" style="margin: 0 15px;" />
+</p>
+<p align="center"><strong>Frontend</strong></p>
 
-  <!-- Frontend -->
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="35" style="margin: 0 18px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.6)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="35" style="margin: 0 18px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.6)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="35" style="margin: 0 18px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.6)'" onmouseout="this.style.transform='scale(1)'"/>
+<!-- Tools -->
+<p align="center">
+  <img src="https://cdn.simpleicons.org/git/F05032" width="35" style="margin: 0 15px;" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="35" style="margin: 0 15px;" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="35" style="margin: 0 15px;" />
+</p>
+<p align="center"><strong>Tools</strong></p>
 
-  <!-- Tools -->
-  <img src="https://cdn.simpleicons.org/git/F05032" width="35" style="margin: 0 18px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.6)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="35" style="margin: 0 18px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.6)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="35" style="margin: 0 18px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.6)'" onmouseout="this.style.transform='scale(1)'"/>
-
-</marquee>
 
 ---
 
