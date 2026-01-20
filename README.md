@@ -1,21 +1,82 @@
-# 💫 About Me:
-TAHIYAT AHMED<br>Full-Stack Developer | AI Automation & DevOps Enthusiast<br>I am a Computer Science and Engineering student at AIUB  focused on building scalable web architectures and intelligent automation workflows. I specialize in bridging the gap between high-quality software development and robust server management.<br><br><br>CORE EXPERTISE<br><br>Backend Frameworks: Advanced development with PHP (Laravel) and Python (Django) for robust API and system architecture.<br><br>AI & Automation: Designing sophisticated workflows in n8n to integrate AI-driven solutions into business processes.<br><br>DevOps & Deployment: Managing Django environments on VPS servers with a focus on CloudLinux OS for stability and resource isolation.<br><br>CMS & Web Design: Building high-performance, tailored WordPress solutions.<br><br>Data Management: Expertise in MySQL, PostgreSQL, and SQLite.<br><br><br>PROFFESIONAL HIGHLIGHTS<br><br>Software Engineering Intern: Contributed to Event and Diagnostic Management Systems at Team Solution Bangladesh (TSBD).<br><br>System Architect: Developed a Diet Counseling Center Management System using Django’s ORM and scalable backend features.<br><br>Application Development: Created Word Polygons, a complex hexagonal puzzle game utilizing Python (Tkinter).<br><br><br>CURRENT FOCUS<br><br>AI Integration: Implementing LLMs into automation pipelines via n8n.<br><br>Cloud Infrastructure: Hardening CloudLinux environments for multi-tenant Django deployments.<br><br>SaaS Development: Exploring enterprise-grade scalability with Laravel.<br><br><br>LET'S CONNECT<br><br>LinkedIn: https://www.linkedin.com/in/tahiyat-ahmed-514148333/<br><br>Email: tahiyat.ahmed703@gmail.com <br>
+<!-- =======================
+   GITHUB PROFILE README
+   Author: Tahiyat Ahmed
+   ======================= -->
 
+<!-- Optional Banner -->
+<!-- <img src="https://your-banner-image-link.png" width="100%" /> -->
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ghost002025) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nirjhor.ahmed30) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thenirjhorahmed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tahiyat-ahmed-514148333) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tahiyat.ahmed703@gmail.com) 
+<h1 align="center">
+  Hi, I'm <span style="color:#1abc9c;">Tahiyat Ahmed</span> 👋
+</h1>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat-square&logo=daisyui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nirjhor703&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nirjhor703&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nirjhor703&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="center">
+  Full-Stack Developer · AI Automation Engineer · DevOps-Oriented Software Engineer
+</h3>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nirjhor703&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+<p align="center">
+  I build scalable backend systems, intelligent automation pipelines, and production-ready web platforms.<br>
+  Focused on clean architecture, reliability, and real-world deployment.
+</p>
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=1abc9c&center=true&vCenter=true&width=750&lines=Design.+Build.+Deploy.;Scalable+Backends+%26+Automation.;Turning+Ideas+into+Production+Systems."
+  />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nirjhor703&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+```yaml
+Name: Tahiyat Ahmed
+Education: BSc in Computer Science & Engineering (AIUB)
+Location: Bangladesh 🇧🇩
+Role: Full-Stack Developer | AI Automation | DevOps
+Focus: Scalable backend systems & automation
+I am a Computer Science and Engineering student with strong hands-on experience in backend development, AI-driven automation, and server infrastructure.
+My work focuses on bridging high-quality software engineering with robust deployment, monitoring, and system reliability.
+
+🧠 Core Expertise
+Backend Engineering
+Laravel (PHP) & Django (Python) for secure, scalable APIs and system design
+
+AI & Automation
+Building intelligent automation workflows using n8n and LLM integrations
+
+DevOps & Deployment
+Managing Django applications on VPS with CloudLinux, performance tuning, and resource isolation
+
+CMS & Web Platforms
+Developing high-performance, customized WordPress solutions
+
+Data Management
+MySQL, PostgreSQL, SQLite, MariaDB
+
+🛠️ Languages & Tools
+<div align="center"> <img src="https://cdn.simpleicons.org/python/3776AB" width="30" /> <img src="https://cdn.simpleicons.org/php/777BB4" width="30" /> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" /> <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="30" /> <img src="https://cdn.simpleicons.org/django/092E20" width="30" /> <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="30" /> <img src="https://cdn.simpleicons.org/mysql/4479A1" width="30" /> <img src="https://cdn.simpleicons.org/postgresql/336791" width="30" /> <img src="https://cdn.simpleicons.org/docker/2496ED" width="30" /> <img src="https://cdn.simpleicons.org/git/F05032" width="30" /> <img src="https://cdn.simpleicons.org/linux/FCC624" width="30" /> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" /> <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="30" /> </div>
+🚀 Professional Highlights
+Role / Project	Description
+Software Engineering Intern	Worked on Event & Diagnostic Management Systems at Team Solution Bangladesh
+System Architect	Designed and developed a Diet Counseling Center Management System using Django
+Application Developer	Created Word Polygons, a complex hexagonal puzzle game using Python (Tkinter)
+Automation Engineer	Built AI-powered automation workflows using n8n and LLM integrations
+
+🎯 Current Focus
+Integrating LLMs into automation pipelines
+
+Hardening CloudLinux-based VPS environments
+
+Designing SaaS-ready backend architectures
+
+Improving system observability and performance
+
+📊 GitHub Statistics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nirjhor703&show_icons=true&theme=tokyonight&count_private=true" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirjhor703&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirjhor703&layout=compact&theme=tokyonight&count_private=true" height="160" /> </div>
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/tahiyat-ahmed-514148333/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" /> </a> <a href="mailto:tahiyat.ahmed703@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" /> </a> <a href="https://facebook.com/nirjhor.ahmed30" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" /> </a> </p>
+📌 Philosophy
+Build systems that last. Automate what matters. Keep learning.
+
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=nirjhor703&icon=2&color=12" /> </p> ```
