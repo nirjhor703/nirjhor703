@@ -126,7 +126,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nirjhor703&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirjhor703&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
@@ -155,6 +154,3 @@
   <em>Focused on building strong foundations before scaling complexity.</em>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nirjhor703&icon=2&color=12"/>
-</p>
