@@ -69,20 +69,72 @@
 
 ---
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">Languages & Tools</h2>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="34"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="34"/>
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="34"/>
-  <img src="https://cdn.simpleicons.org/django/092E20" width="34"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="34"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="34"/>
-  <img src="https://cdn.simpleicons.org/postgresql/336791" width="34"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="34"/>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="34"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="34"/>
-</p>
+<marquee behavior="scroll" direction="left" scrollamount="6">
+
+  <img src="https://cdn.simpleicons.org/python/555555"
+       width="30"
+       style="margin: 0 18px; transition: transform 0.3s;"
+       onmouseover="this.style.transform='scale(1.6)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+  <img src="https://cdn.simpleicons.org/php/555555"
+       width="30"
+       style="margin: 0 18px; transition: transform 0.3s;"
+       onmouseover="this.style.transform='scale(1.6)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+  <img src="https://cdn.simpleicons.org/javascript/555555"
+       width="30"
+       style="margin: 0 18px; transition: transform 0.3s;"
+       onmouseover="this.style.transform='scale(1.6)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+  <img src="https://cdn.simpleicons.org/laravel/555555"
+       width="30"
+       style="margin: 0 18px; transition: transform 0.3s;"
+       onmouseover="this.style.transform='scale(1.6)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+  <img src="https://cdn.simpleicons.org/django/555555"
+       width="30"
+       style="margin: 0 18px; transition: transform 0.3s;"
+       onmouseover="this.style.transform='scale(1.6)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+  <img src="https://cdn.simpleicons.org/mysql/555555"
+       width="30"
+       style="margin: 0 18px; transition: transform 0.3s;"
+       onmouseover="this.style.transform='scale(1.6)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+  <img src="https://cdn.simpleicons.org/postgresql/555555"
+       width="30"
+       style="margin: 0 18px; transition: transform 0.3s;"
+       onmouseover="this.style.transform='scale(1.6)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+  <img src="https://cdn.simpleicons.org/docker/555555"
+       width="30"
+       style="margin: 0 18px; transition: transform 0.3s;"
+       onmouseover="this.style.transform='scale(1.6)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+  <img src="https://cdn.simpleicons.org/git/555555"
+       width="30"
+       style="margin: 0 18px; transition: transform 0.3s;"
+       onmouseover="this.style.transform='scale(1.6)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+  <img src="https://cdn.simpleicons.org/linux/555555"
+       width="30"
+       style="margin: 0 18px; transition: transform 0.3s;"
+       onmouseover="this.style.transform='scale(1.6)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+</marquee>
+
 
 ---
 
