@@ -138,17 +138,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tahiyat-ahmed-514148333/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" />
+    <img src="https://cdn.simpleicons.org/linkedin/555555" width="22" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:tahiyat.ahmed703@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" />
+    <img src="https://cdn.simpleicons.org/gmail/555555" width="22" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/nirjhor.ahmed30" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="32" />
+    <img src="https://cdn.simpleicons.org/facebook/555555" width="22" />
   </a>
 </p>
+
 
 
 ---
